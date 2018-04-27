@@ -7,6 +7,10 @@ public class GitTest {
         System.out.println("添加输出====1");
         System.out.println("添加输出 1===== 我是克隆版");
 
+        System.out.println("添加输出 2===== 我是主");
+
+
+
     }
 
 }
